@@ -1,19 +1,19 @@
 <nav>
   {% for item in site.data.navigation %}
   {% if item.category contains "architecture" %}
-  <a href="{{ item.url | relative_url }}" class="architecture">{{ item.name }}</a>
+  <a href="{{ item.link | relative_url }}" class="architecture">{{ item.name }}</a>
   {% endif %}
   {% if item.category contains "interior" %}
-  <a href="{{ item.url | relative_url }}" class="interior">{{ item.name }}</a>
+  <a href="{{ item.link | relative_url }}" class="interior">{{ item.name }}</a>
   {% endif %}
   {% if item.category contains "design" %}
-  <a href="{{ item.url | relative_url }}" class="design">{{ item.name }}</a>
+  <a href="{{ item.link | relative_url }}" class="design">{{ item.name }}</a>
   {% endif %}
   {% if item.category contains "publication" %}
-  <a href="{{ item.url | relative_url }}" class="publication">{{ item.name }}</a>
+  <a href="{{ item.link | relative_url }}" class="publication">{{ item.name }}</a>
   {% endif %}
   {% if item.category contains "exhibit" %}
-  <a href="{{ item.url | relative_url }}" class="exhibit">{{ item.name }}</a>
+  <a href="{{ item.link | relative_url }}" class="exhibit">{{ item.name }}</a>
   {% endif %}
   {% endfor %}
 </nav>
