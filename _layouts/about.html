@@ -4,8 +4,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>About</title>
-  <link href="/assets/css/styles.css" rel="stylesheet">
+  <title>{{ page.title }}</title>
+  <link href="{{ "/assets/css/styles.css" | relative_url }}" rel="stylesheet">
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/pace.min.js"></script>
 </head>
 
@@ -13,21 +13,16 @@
 
   <section class="page">
     <div class="title">
-      <h2><a href="/index.html">< index</a> </h2>
-      <h1>About</h1>
+      <h2><a href="{{ "/index.html" | relative_url }}">< index</a> </h2>
+      <h1>{{ page.title }}</h1>
     </div>
 
 
           <div class="projects">
-              <p>This page tells you a little bit about me.</p>
-
+              {{ content }}
           </div>
 
-  <div id="footer">
-  <li class="footer-left ">© RCAA 2019</li>
-  <li class="footer-right"><a href="mailto:mail@rcaa.it">mail[at]rcaa[dot]it</a></li>
-</div>
-
+  {% include footer.html %}
   </section>
 
 </body>

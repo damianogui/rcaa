@@ -1,171 +1,224 @@
 html, body {
   margin: 0;
   padding: 0;
-  font-family: Helvetica, Arial, "Lucida Grande", sans-serif; }
+  font-family: Helvetica, Arial, "Lucida Grande", sans-serif;
+}
 
 ::selection {
   color: #fff;
-  background: #000; }
+  background: #000;
+}
 
-.page {
-  margin-left: 17%;
-  margin-right: 17%;
-  min-width: 300px; }
+.page{
+  margin-left:17%;
+  margin-right:17%;
+  min-width: 300px;
+}
 
 @media only screen and (max-width: 600px) {
-  .page {
+  .page{
     width: 300px;
-    margin: auto; } }
-h1 {
+    margin:auto;
+  }
+}
+
+h1{
   color: transparent;
-  font-size: 6.5em;
-  -webkit-text-stroke-width: 1px;
+  font-size: 60px;
+  font-size: 6.5vw;
+	-webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: black;
-  margin: 0px; }
+  margin:0px;
+}
 
-h2 {
-  font-size: 0.8em;
+h2{
+	font-size: 0.8em;
   margin: -10px 4px;
-  font-weight: bold; }
+  font-weight: bold;
+}
 
-h1 {
-  margin-top: 10px; }
+h1{
+  margin-top:10px;
+}
 
 .title {
-  margin-top: 10%; }
 
-.projects {
+  margin-top: 10%;
+}
+
+.projects{
+
   margin-top: 1em;
   font-size: .7em;
   text-align: justify;
   text-justify: inter-word;
-  line-height: 20px; }
+  line-height: 20px;
 
-.projects a {
-  margin-right: 4px; }
+}
+
+ .projects a{
+  margin-right: 4px;
+}
 
 a {
   text-decoration: none;
-  color: #000; }
+  color: #000;
+}
 
 .architecture {
   color: #000;
-  font-weight: bold; }
-
+  font-weight: bold;
+}
 .interior {
-  color: #000; }
-
+  color: #000;
+}
 .design {
   color: #000;
-  font-style: italic; }
-
+  font-style: italic;
+}
 .publication {
-  color: #000; }
+  color: #000;
+}
+.exhibit{
+  color: #727272;
+}
 
-.exhibit {
-  color: #727272; }
-
-a:hover {
+a:hover{
   background: #000;
-  color: #fff; }
+  color: #fff;
+}
 
-.projects a::before {
-  content: "/ "; }
+.projects a::before{
+  content: "/ ";
+}
 
 li {
-  margin: 3px; }
+	margin:3px;
+
+}
 
 #footer {
   position: relative;
   margin-top: 5%;
-  margin-bottom: 5%; }
+  margin-bottom: 5%;
+}
+
+#footer  {
+
+}
 
 #footer li {
   font-size: 0.8em;
   font-weight: bold;
-  line-height: 200%; }
+  line-height: 200%;
+}
 
 .footer-right {
   text-align: right;
   display: inline;
-  position: absolute; }
+  position: absolute;
+
+}
 
 .footer-left {
   right: 0;
   text-align: left;
   display: inline;
-  position: absolute; }
+  position: absolute;
+}
 
-.about {
-  right: 0;
+.about{
+  right:0;
   margin-top: -15px;
   text-align: right;
-  font-size: 0.8em; }
+  font-size: 0.8em;
+}
 
-.about a, .footer-right a {
+.about a, .footer-right a{
   font-weight: bold;
   font-size: 1em;
   color: #000;
-  border-bottom: 2px solid #000; }
+  border-bottom: 2px solid #000;
+}
 
-a.about:hover, .footer-right a:hover {
+a.about:hover, .footer-right a:hover{
   background: #000;
-  color: #fff; }
+  color: #fff;
+}
 
 .active li.current {
-  display: block; }
+  display:block;
+}
 
-img {
-  max-height: 60vh;
-  max-width: 100%; }
+img{
+  max-height:60vh;
+  max-width:100%;
 
+}
 .imagebox {
   max-width: 100%;
-  margin: 2% 0 2% 0; }
+  margin: 2% 0 2% 0;
+}
 
-.imagebox:hover {
-  cursor: pointer; }
-
+.imagebox:hover{
+  cursor:pointer;
+}
 .content {
   margin: 0;
   padding: 0;
-  text-align: center; }
-
+  text-align: center;
+}
 .content li {
   margin: auto;
   padding: 0;
   width: 100%;
   list-style: none;
-  display: none; }
 
-.description {
+  display:none;
+}
+
+.description{
   margin-top: 1em;
   font-size: .7em;
   text-align: justify;
   text-justify: inter-word;
-  line-height: 1.5em; }
+  line-height: 1.5em;
+  }
 
-.meta {
+  @media only screen and (min-width: 600px) {
+    .description{
+      width: 400px;
+      min-height: 400px;
+      margin:auto;
+    }
+  }
+
+
+.meta{
   text-align: justify;
-  width: 100%; }
-
-.meta:after {
-  content: '';
-  display: inline-block;
   width: 100%;
-  height: 0;
-  font-size: 0;
-  line-height: 0; }
+}
+.meta:after{
+    content: '';
+    display: inline-block;
+    width: 100%;
+    height: 0;
+    font-size:0;
+    line-height:0;
+}
 
 .tags {
   display: inline-block;
   font-size: .7em;
-  color: #A0A0A0; }
+  color: #A0A0A0;
+}
 
-.imagecounter {
+.imagecounter{
   font-size: 0.8em;
   font-weight: bold;
-  display: inline-block; }
+  display: inline-block;
+}
+
 
 .pace .pace-progress {
   background: #000;
@@ -174,4 +227,5 @@ img {
   top: 0;
   right: 100%;
   width: 100%;
-  height: 10px; }
+  height: 10px;
+}

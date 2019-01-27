@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Casa/Atelier GVM
+title: Casa / Atelier GVM
 id: casa_atelier_gvm
 year: 2018
 category: interior

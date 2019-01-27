@@ -24,7 +24,8 @@ html, body {
 
 h1{
   color: transparent;
-  font-size: 6.5em;
+  font-size: 60px;
+  font-size: 6.5vw;
 	-webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: black;
   margin:0px;
@@ -183,6 +184,15 @@ img{
   text-justify: inter-word;
   line-height: 1.5em;
   }
+
+  @media only screen and (min-width: 600px) {
+    .description{
+      width: 400px;
+      min-height: 400px;
+      margin:auto;
+    }
+  }
+
 
 .meta{
   text-align: justify;
