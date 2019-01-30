@@ -3,7 +3,7 @@ layout: project
 title: Servo Muto
 id: servo_muto
 year: 2018
-category: interior
+category: design
 place: Antwerp, Belgium
 ---
 
