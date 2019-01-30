@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Servo Muto
+title: Mattia
 id: servo_muto
 year: 2016
 category: design
