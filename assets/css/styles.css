@@ -89,7 +89,10 @@ a:hover{
 }
 
 .projects a::before{
-  content: "  ";
+  	content: " / ";
+	color: #000;
+	font-style: regular;
+	font-weight: normal;
 }
 
 li {
