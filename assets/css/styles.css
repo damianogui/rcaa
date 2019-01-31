@@ -20,6 +20,9 @@ html, body {
     width: 300px;
     margin:auto;
   }
+	.h2{
+	margin: 0px 4px;
+	}
 }
 
 h1{
