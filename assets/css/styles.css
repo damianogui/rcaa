@@ -89,7 +89,7 @@ a:hover{
 }
 
 .projects a::before{
-  content: "/ ";
+  content: "  ";
 }
 
 li {
