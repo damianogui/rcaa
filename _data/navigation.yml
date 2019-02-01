@@ -23,6 +23,11 @@
   year: 2017
   category: interior
   place: Bologna, Italy
+- name: Prova link esterno
+  link: https://www.google.it/
+  year: /
+  category: publication
+  place: /
   
   
   
