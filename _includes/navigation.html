@@ -15,5 +15,8 @@
   {% if item.category contains "exhibit" %}
   <a href="{{ item.link | relative_url }}" class="exhibit">{{ item.name }}</a>
   {% endif %}
+    {% if item.category contains "external" %}
+  <a href="{{ item.link | relative_url }}" class="external" target="_blank">{{ item.name }}</a>
+  {% endif %}
   {% endfor %}
 </nav>
