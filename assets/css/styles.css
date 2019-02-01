@@ -84,6 +84,9 @@ a {
 .exhibit{
   color: #727272;
 }
+.external{
+  color: #2A5C93;
+}
 
 a:hover{
   background: #000;
