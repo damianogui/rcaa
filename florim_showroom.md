@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Shorwoom for Florim
+title: Showroom for Florim
 id: florim_showroom
 year: 2015
 category: desing
