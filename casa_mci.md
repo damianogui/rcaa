@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Casa MCI
+title: Casa MCi
 id: casa_mci
 year: 2016
 category: interior
