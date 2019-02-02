@@ -6,5 +6,4 @@ year: 2016
 category: design
 place: Bologna, Italy
 ---
-
 Design of a custom made steel kitchen for a private home
