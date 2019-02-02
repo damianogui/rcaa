@@ -1,7 +1,7 @@
 ---
 layout: project
 title: C4 Table
-id: cfour_table
+id: c4_table
 year: 2017
 category: design
 place: Bologna, Italy
