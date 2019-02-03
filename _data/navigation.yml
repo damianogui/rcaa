@@ -23,6 +23,11 @@
   year: 2017
   category: interior
   place: Bologna, Italy
+- name: Venezia table
+  link: /venezia.html
+  year: 2018
+  category: design
+  place: Venezia, Italy
 - name: Prova link esterno
   link: https://www.google.it/
   year: /
