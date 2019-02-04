@@ -28,11 +28,6 @@
   year: 2018
   category: design
   place: Venezia, Italy
-- name: Prova link esterno
-  link: https://www.google.it/
-  year: /
-  category: external
-  place: /
 - name: Casa DC
   link: /casa_dc.html
   year: 2015
