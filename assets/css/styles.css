@@ -64,8 +64,8 @@ margin-left: -0.5vw;
 }
 
 a {
-  text-decoration: #000;
-  color: #fff;
+  text-decoration: none;
+  color: #000;
 }
 
 .architecture {
