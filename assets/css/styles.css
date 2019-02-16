@@ -10,13 +10,13 @@ html, body {
 }
 
 .page{
-  margin-left:17%;
-  margin-right:17%;
+  margin-left:25%;
+  margin-right:25%;
   min-width: 300px;
 }
 
 h2{
-	font-size: 1.8em;
+	font-size: 0.8em;
   	font-weight: bold;
 	display:inline;
 }
