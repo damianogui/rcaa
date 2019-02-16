@@ -38,7 +38,7 @@
   year: 2016
   category: design
   place: Antwerp, Belgium
-- name: Pace museum
+- name: Pace museum (with Z. Pei)
   link: http://www.studiozhupei.com/show/?id=152&page=1&siteid=2
   year: 2010
   category: external
@@ -68,7 +68,7 @@
   year: 2017
   category: architecture
   place: Bologna, Italy
-- name: Art Centre Ningbo
+- name: Art Centre Ningbo (with Z. Pei)
   link: http://www.studiozhupei.com/show/?id=156&page=1&siteid=2
   year: 2010
   category: external
@@ -88,7 +88,7 @@
   year: 2016
   category: interior
   place: Imola, Italy
-- name: OCT museum
+- name: OCT museum (with Z.Pei)
   link: http://www.studiozhupei.com/show/?id=154&page=1&siteid=2
   year: 2010
   category: external
@@ -123,16 +123,16 @@
   year: 2016
   category: design
   place: Bologna, Italy
+- name: Centre d’Art Chamonix (with D. Serero)
+  link: http://serero.com/projet/centre-dart-chamonix/
+  year: 2010
+  category: external
+  place: Chamonix, France
 - name: Perspe
   link: /perspe.html
   year: 2016
   category: design
   place: Bologna, Italy
-- name: Apuane Hospitals
-  link: https://www.mcarchitects.it/project/design-of-new-hospitals-in-the-apuane
-  year: 2007
-  category: external
-  place: Tuscany, Italy
 - name: Casa EG
   link: /rattigna.html
   year: 2015
@@ -153,7 +153,7 @@
   year: 2016
   category: design
   place: Bologna, Italy
-- name: CSET Ningbo
+- name: CSET Ningbo (with M. Cucinella)
   link: https://www.mcarchitects.it/project/centre-for-sustainable-energy-technologies
   year: 2006
   category: external
