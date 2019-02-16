@@ -38,6 +38,11 @@
   year: 2016
   category: design
   place: Antwerp, Belgium
+- name: Pace museum
+  link: http://www.studiozhupei.com/show/?id=152&page=1&siteid=2
+  year: 2010
+  category: external
+  place: Beijing, China
 - name: Venezia table
   link: /venezia.html
   year: 2018
@@ -63,6 +68,11 @@
   year: 2017
   category: architecture
   place: Bologna, Italy
+- name: Art Centre Ningbo
+  link: http://www.studiozhupei.com/show/?id=156&page=1&siteid=2
+  year: 2010
+  category: external
+  place: Ningbo, China
 - name: Casa AP
   link: /casa_ap.html
   year: 2016
@@ -78,6 +88,11 @@
   year: 2016
   category: interior
   place: Imola, Italy
+- name: OCT museum
+  link: http://www.studiozhupei.com/show/?id=154&page=1&siteid=2
+  year: 2010
+  category: external
+  place: Shenzen, China
 - name: DM low stool
   link: /dm_low.html
   year: 2015
