@@ -6,6 +6,10 @@ year: 2017
 category: interior
 place: Bologna, Italy
 ---
+Client: undisclosed
+Value: 100.000 euros 
+Status: Completed
+
 Small, ultra-simple apartment for a young couple. Filling the blanks with white.
 Restoration of an apartment within an old city block, for a young couple.
 The intervention was minimal in both scope and colour palette, favouring open spaces and light-coloured materials to enhance natural light. 
