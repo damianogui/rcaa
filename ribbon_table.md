@@ -6,6 +6,9 @@ year: 2016
 category: design
 place: Bologna, Italy
 ---
+Client: undisclosed
+Value: 1.000 euros 
+Status: Completed
 
 Coffee table based on the repetition of a single bent steel component.
 The table is part of a larger study on repetition and simplicity. 
