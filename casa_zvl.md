@@ -6,6 +6,9 @@ year: 2018
 category: architecture
 place: Bologna, Italy
 ---
+Client: undisclosed
+Value: 65.000 euros 
+Status: Completed
 
 Simplification of a small apartment
 
