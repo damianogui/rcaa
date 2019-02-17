@@ -7,6 +7,10 @@ category: design
 place: Venice, Italy
 ---
 
+Client: undisclosed
+Value: 15.000 euros 
+Status: In Progess
+
 Metal plasma cutting allows for very precise slotting, eliminating the need for bolts and minimising the use of welding.
 Copper is used both as a welding material and as a tensional "truss" element, and then filed down to a unique whole.
 Exposing the copper through the horizontal and vertical surfaces renders explicit the choice of using the noble material as the structural element.
