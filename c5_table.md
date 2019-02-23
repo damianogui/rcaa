@@ -6,12 +6,9 @@ year: 2017
 category: design
 place: Bologna, Italy
 ---
-Client: Art Omi
-Value: undisclosed
-Status: Completed
+Client: undisclosed
+Value: 1.000 euros 
+Status: In progress
 
-Humans have been enshrining and memorializing their dead for millennia. While forms and rituals vary widely across cultures and religions, we are nonetheless reacting to similar desires: memorializing a life, coping with loss, religious symbolism, returning to nature, and so on.
-
-EXIT Architecture is a speculative look at designing for the afterlife in all its potential architectural and design forms, and new ways of marking our exit. This exhibition presents a critical, projective, and speculative look at the present and future of this realm of design. EXIT Architecture features contributions from: AD-WO, Studio Ames, ANAH, BEAU Architects, Richard Ceccanti Aston, Bade Stageberg Cox, Roderick Cruz, JeongChoi Works, KONYK ARCHITECTURE, Giann Matias, Aleksandr Mergold, Michaela Metcalfe, Yongwoo Park, Jason Vigneri-Beane, and Lebbeus Woods.
-
-EXIT Architecture is curated by Warren James, and Julia van den Hout + Kyle May.
+Part of a series of table exploring simple steel and alluminum fabrication and geometric repetitions/variations.
+2mm bent alluminum plate, internally powdercoated
