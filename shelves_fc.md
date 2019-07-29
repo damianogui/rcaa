@@ -1,6 +1,6 @@
 ---
 layout: project
-title: FC Shelves
+title: Shelves for FC
 id: shelves_fc
 year: 2019
 category: design
