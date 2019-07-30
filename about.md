@@ -2,11 +2,11 @@
 layout: about
 title: About
 ---
-Architecture and design office interested in the essential, the functional, the radical.
+Architecture office interested in the essential, the functional, the radical.
 
-Italy: Via del Riccio 3/2, 
-40123 Bologna
+Bologna: Via del Riccio 3/2, 
+40123 Bologna, Italy
 
-Belgium: Sint-Jorispoort 24
-2000 Antwerpen
+Antwerp: Sint-Jorispoort 24
+2000 Antwerpen, Belgium
  
