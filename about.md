@@ -4,7 +4,7 @@ title: About
 ---
 Architecture office interested in the essential, the functional, the radical.
 
-Bologna: Via del Riccio 3/2, 
+Bologna: Via Nosadella 34, 
 40123 Bologna, Italy
 
 Antwerp: Sint-Jorispoort 24
