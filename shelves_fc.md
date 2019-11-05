@@ -6,8 +6,8 @@ year: 2019
 category: design
 place: Bologna, Italy
 ---
-Client: undisclosed
-Value: 4.000 euros 
-Status: In progress
+Client: Undisclosed
+Value: Undisclosed
+Status: Completed
 
 Steel and timber modular shelving system for a private apartment
