@@ -1,6 +1,6 @@
 ---
 layout: project
-title: M Studios
+title: C Studios
 id: m_studios
 year: 2019
 category: architecture
