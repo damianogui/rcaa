@@ -1,7 +1,7 @@
 ---
 layout: project
-title: C Studios
-id: C_studios
+title: C Studio
+id: C_studio
 year: 2019
 category: architecture
 place: Bologna, Italy
