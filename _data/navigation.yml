@@ -1,3 +1,8 @@
+- name: C1 Table
+  link: /cone_table.html
+  year: 2018
+  category: design
+  place: Bologna, Italy
 - name: VS Offices
   link: /vs_offices.html
   year: 2019
@@ -98,11 +103,6 @@
   year: 2015
   category: architecture
   place: Cortina d'Ampezzo, Italy
-- name: C1 Table
-  link: /cone_table.html
-  year: 2018
-  category: design
-  place: Bologna, Italy
 - name: C4 Table
   link: /c4_table.html
   year: 2017
