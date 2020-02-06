@@ -11,4 +11,4 @@ Value: 1.000 euros
 Status: In progress
 
 Part of a series of table exploring simple steel fabrication and geometric repetitions/variations.
-2mm bent steel plate, enamel coated, RAL 1003 "Signal Yellow".
+3mm bent and laser cut steel plate, sand-blasted and clear-coated.
