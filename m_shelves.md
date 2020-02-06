@@ -1,6 +1,6 @@
 ---
 layout: project
-title: M Shelves
+title: Sculpture M
 id: m_shelves
 year: 2016
 category: design
@@ -10,4 +10,4 @@ Client: undisclosed
 Value: 3.000 euros 
 Status: Completed
 
-Folded and welded steel shelving system, powdercoated white
+Lasercut and welded steel, powdercoated white, neon lights.
