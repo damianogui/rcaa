@@ -1,3 +1,8 @@
+- name: Orto
+  link: /orto.html
+  year: 2020
+  category: architecture
+  place: Bologna, Italy
 - name: C1 Table
   link: /cone_table.html
   year: 2018
