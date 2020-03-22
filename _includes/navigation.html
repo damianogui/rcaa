@@ -1,22 +1,43 @@
-<nav>
+
+  <ul class="projects">
   {% for item in site.data.navigation %}
   {% if item.category contains "architecture" %}
+  <li>
   <a href="{{ item.link | relative_url }}" class="architecture">{{ item.name }}</a>
-  {% endif %}
-  {% if item.category contains "interior" %}
-  <a href="{{ item.link | relative_url }}" class="interior">{{ item.name }}</a>
-  {% endif %}
-  {% if item.category contains "design" %}
-  <a href="{{ item.link | relative_url }}" class="design">{{ item.name }}</a>
+  </li>
   {% endif %}
   {% if item.category contains "publication" %}
+  <li>
   <a href="{{ item.link | relative_url }}" class="publication">{{ item.name }}</a>
+  </li>
   {% endif %}
   {% if item.category contains "exhibit" %}
+  <li>
   <a href="{{ item.link | relative_url }}" class="exhibit">{{ item.name }}</a>
+  </li>
   {% endif %}
   {% if item.category contains "external" %}
+  <li>
   <a href="{{ item.link | relative_url }}" class="external" target="_blank">{{ item.name }}</a>
+  </li>
   {% endif %}
   {% endfor %}
-</nav>
+  </ul>
+  <ul class="projects">
+  {% for item in site.data.navigation %}
+  {% if item.category contains "interior" %}
+  <li>
+  <a href="{{ item.link | relative_url }}" class="interior">{{ item.name }}</a>
+  </li>
+  {% endif %}
+  {% endfor %}
+  </ul>
+  <ul class="projects">
+  {% for item in site.data.navigation %}
+  {% if item.category contains "design" %}
+  <li>
+  <a href="{{ item.link | relative_url }}" class="design">{{ item.name }}</a>
+  </li>
+  {% endif %}
+  {% endfor %}
+  </ul>

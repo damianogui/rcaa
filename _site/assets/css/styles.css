@@ -10,8 +10,8 @@ html, body {
 }
 
 .page{
-  margin-left:17%;
-  margin-right:17%;
+  margin-left:10%;
+  margin-right:10%;
   min-width: 300px;
 }
 
@@ -22,38 +22,61 @@ html, body {
   }
 }
 
+
+h2 {
+	font-size: 0.8em;
+  font-weight: bold;
+	display:inline-block;
+  width: 64%;
+  float: left;
+  margin:0px 0px 10px 0px;
+}
+
+.back {
+	font-size: 0.8em;
+  font-weight: bold;
+  width: 64%;
+  margin:0px 0px 10px 0px;
+}
+
+.about{
+  text-align: left;
+  font-size: 0.8em;
+  width: auto;
+
+  display:inline-block;
+  margin:0px 0px 10px 0px;
+}
+
+@media only screen and (max-width: 600px) {
+  .about{
+    text-align: left;
+    float:none;
+  }
+
+}
+
 h1{
   color: transparent;
   font-size: 60px;
   font-size: 6.5vw;
+  min-font-size: 5vw;
 	-webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: black;
   margin:0px;
-}
-
-h2{
-	font-size: 0.8em;
-  margin: -10px 4px;
-  font-weight: bold;
-}
-
-h1{
+  text-align: left;
   margin-top:10px;
+  margin-left: -0.5vw;
+}
+
+@media only screen and (max-width: 600px) {
+  h1{
+    font-size: 50px;
+  }
 }
 
 .title {
-
   margin-top: 10%;
-}
-
-.projects{
-
-  margin-top: 1em;
-  font-size: .7em;
-  text-align: justify;
-  text-justify: inter-word;
-  line-height: 20px;
-
 }
 
  .projects a{
@@ -82,29 +105,53 @@ a {
 .exhibit{
   color: #727272;
 }
+.external{
+  color: #afafaf;
+}
 
 a:hover{
   background: #000;
   color: #fff;
 }
 
-.projects a::before{
-  content: "/ ";
+.projects{
+  padding: 0;
+  margin-top: 2em;
+  font-size: .8em;
+  line-height: 15px;
+  list-style: none;
+  width: 32%;
+  display: inline-block;
+  float:left;
 }
 
-li {
-	margin:3px;
+.about-content{
+  padding: 0;
+  margin-top: 2em;
+  font-size: .8em;
+  line-height: 15px;
+  list-style: none;
+  display: inline-block;
+}
 
+/*
+.projects a::before{
+  	content: " / ";
+	color: #000;
+	font-style: normal;
+	font-weight: normal;
+}
+*/
+
+li {
+  margin-bottom: 5px;
+  margin-right: 5px;
 }
 
 #footer {
   position: relative;
   margin-top: 5%;
   margin-bottom: 5%;
-}
-
-#footer  {
-
 }
 
 #footer li {
@@ -117,7 +164,6 @@ li {
   text-align: right;
   display: inline;
   position: absolute;
-
 }
 
 .footer-left {
@@ -127,19 +173,12 @@ li {
   position: absolute;
 }
 
-.about{
-  right:0;
-  margin-top: -15px;
-  text-align: right;
-  font-size: 0.8em;
-}
-
 .about a, .footer-right a{
   font-weight: bold;
   font-size: 1em;
   color: #000;
-  border-bottom: 2px solid #000;
 }
+
 
 a.about:hover, .footer-right a:hover{
   background: #000;
