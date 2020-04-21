@@ -3,7 +3,7 @@ layout: project
 title: Exit Architecture
 id: exit_architecture
 year: 2019
-category: exhibit
+category: architecture
 place: New York, USA
 ---
 
