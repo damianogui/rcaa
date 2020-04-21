@@ -138,10 +138,10 @@
   year: 2016
   category: interior
   place: Imola, Italy
-- name: OCT museum (with Z.Pei)
-  link: http://www.studiozhupei.com/show/?id=154&page=1&siteid=2
-  year: 2010
-  category: external
+- name: OCT Museum (with Z.Pei)
+  link: oct_museum.html
+  year: 2012
+  category: architecture
   place: Shenzen, China
 - name: DM low stool
   link: /dm_low.html
