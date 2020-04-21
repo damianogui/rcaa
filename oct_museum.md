@@ -8,4 +8,4 @@ place: Shenzhen, China
 ---
 Client: undisclosed
 Value: 20.000.000 euros 
-Status: ompleted
+Status: Completed
