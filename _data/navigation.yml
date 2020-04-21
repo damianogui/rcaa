@@ -38,7 +38,7 @@
   year: 2017
   category: architecture
   place: Prato, Italy
-- name: Exit Architecture Exhibition
+- name: Exit Architecture Exhibiition
   link: /exit_architecture.html
   year: 2019
   category: exhibit
@@ -118,10 +118,10 @@
   year: 2017
   category: architecture
   place: Bologna, Italy
-- name: Art Centre Ningbo (with Z. Pei)
-  link: http://www.studiozhupei.com/show/?id=156&page=1&siteid=2
-  year: 2010
-  category: external
+- name: Ningbo Art Centre (with Z. Pei)
+  link: /ningbo_pei.html
+  year: 2012
+  category: architecture
   place: Ningbo, China
 - name: Casa AP
   link: /casa_ap.html
