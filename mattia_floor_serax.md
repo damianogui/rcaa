@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Mattia floorlamp for Serax
+title: Mattia floor lamp for Serax
 id: mattia_floor_serax
 year: 2020
 category: design
