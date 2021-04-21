@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Perspe 2.0
-id: perspe
+id: perspe2
 year: 2021
 category: design
 place: Bologna, Italy
