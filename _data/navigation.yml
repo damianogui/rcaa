@@ -3,16 +3,16 @@
   year: 2021
   category: interior
   place: Treviso, Italy
-- name: Mattia floor lamp x Serax
+- name: Mattia floor lamp
   link: /mattia_floor_serax.html
   year: 2020
   category: design
   place: Antwerp, Belgium
-- name: Mattia table lamp x Serax
-  link: /mattia_table_serax.html
-  year: 2020
+ - name: Perspe 2.0
+  link: /perspe2.html
+  year: 2021
   category: design
-  place: Antwerp, Belgium
+  place: Bologna, Italy
 - name: Orto
   link: /orto.html
   year: 2020
@@ -33,7 +33,7 @@
   year: 2019
   category: architecture
   place: Bologna, Italy
-- name: C Studio
+- name: C Studios
   link: /c_studio.html
   year: 2019
   category: architecture
@@ -48,35 +48,30 @@
   year: 2019
   category: design
   place: Antwerp, Belgium
-- name: Fendi Production Centre
+- name: Fendi Factory
   link: /fendi.html
   year: 2017
   category: architecture
   place: Prato, Italy
+ - name: Mattia table lamp 
+  link: /mattia_table_serax.html
+  year: 2020
+  category: design
+  place: Antwerp, Belgium
 - name: Exit Architecture Exhibition
   link: /exit_architecture.html
   year: 2019
-  category: design
+  category: interior
   place: New York, USA
-- name: C Studios
-  link: /m_studios.html
-  year: 2019
-  category: architecture
-  place: Bologna, Italy
 - name: Casa EC
   link: /casa_ec.html
   year: 2019
-  category: interior
+  category: design
   place: Imola, Italy
 - name: Villa F
   link: /villa_f.html
   year: 2019
   category: architecture
-  place: Bologna, Italy
-- name: Shelves for FC
-  link: /shelves_fc.html
-  year: 2019
-  category: design
   place: Bologna, Italy
 - name: Linkeroever Tower
   link: /linkeroever_tower.html
@@ -103,16 +98,6 @@
   year: 2017
   category: interior
   place: Bologna, Italy
-- name: Mattia (prototype)
-  link: /mattia.html
-  year: 2016
-  category: design
-  place: Antwerp, Belgium
-- name: Pace museum (with Z. Pei)
-  link: /pace.html
-  year: 2010
-  category: architecture
-  place: Beijing, China
 - name: Venezia table
   link: /venezia.html
   year: 2018
@@ -133,31 +118,6 @@
   year: 2017
   category: architecture
   place: Bologna, Italy
-- name: Ningbo Art Centre (with Z. Pei)
-  link: /ningbo_pei.html
-  year: 2012
-  category: architecture
-  place: Ningbo, China
-- name: Casa AP
-  link: /casa_ap.html
-  year: 2016
-  category: design
-  place: Bologna, Italy
-- name: Holy Office
-  link: /holy_office.html
-  year: 2016
-  category: architecture
-  place: Bologna, Italy
-- name: Casa MCi
-  link: /casa_mci.html
-  year: 2016
-  category: interior
-  place: Imola, Italy
-- name: OCT Museum (with Z.Pei)
-  link: oct_museum.html
-  year: 2012
-  category: architecture
-  place: Shenzen, China
 - name: DM low stool
   link: /dm_low.html
   year: 2015
@@ -168,11 +128,6 @@
   year: 2015
   category: interior
   place: Milan, Italy
-- /name: C5 Table
-  link: /c5_table.html
-  year: 2017
-  category: design
-  place: Bologna, Italy
 - name: DM table
   link: /dm_table.html
   year: 2015
@@ -181,14 +136,14 @@
 - name: Postrivoro
   link: /postrivoro.html
   year: 2017
-  category: design
+  category: interior
   place: Faenza, Italy
 - name: M Shelves
   link: /m_shelves.html
   year: 2016
   category: design
   place: Bologna, Italy
-- name: Perspe
+- name: Perspe 1.0
   link: /perspe.html
   year: 2016
   category: design
@@ -196,11 +151,6 @@
 - name: Casa EG
   link: /rattigna.html
   year: 2015
-  category: interior
-  place: Bologna, Italy
-- name: Casa C1
-  link: /ciompi_svone.html
-  year: 2016
   category: interior
   place: Bologna, Italy
 - name: DM high stool
@@ -213,10 +163,12 @@
   year: 2016
   category: design
   place: Bologna, Italy
+- /name: C5 Table
+  link: /c5_table.html
+  year: 2017
+  category: design
+  place: Bologna, Italy
 
-  
- 
-  
   
   
   
