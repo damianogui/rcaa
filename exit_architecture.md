@@ -3,7 +3,7 @@ layout: project
 title: Exit Architecture
 id: exit_architecture
 year: 2019
-category: design
+category: Interior
 place: New York, USA
 ---
 
@@ -15,4 +15,4 @@ Humans have been enshrining and memorializing their dead for millennia. While fo
 
 EXIT Architecture is a speculative look at designing for the afterlife in all its potential architectural and design forms, and new ways of marking our exit. This exhibition presents a critical, projective, and speculative look at the present and future of this realm of design. EXIT Architecture features contributions from: AD-WO, Studio Ames, ANAH, BEAU Architects, Richard Ceccanti Aston, Bade Stageberg Cox, Roderick Cruz, JeongChoi Works, KONYK ARCHITECTURE, Giann Matias, Aleksandr Mergold, Michaela Metcalfe, Yongwoo Park, Jason Vigneri-Beane, and Lebbeus Woods.
 
-EXIT Architecture is curated by Warren James, and Julia van den Hout + Kyle May.
+EXIT Architecture was curated by Warren James, and Julia van den Hout + Kyle May.
