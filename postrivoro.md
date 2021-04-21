@@ -3,7 +3,7 @@ layout: project
 title: Postrivoro
 id: postrivoro
 year: 2017
-category: design
+category: interior
 place: Faenza, Italy
 ---
 Client: Postrivoro
