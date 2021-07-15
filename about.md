@@ -2,8 +2,10 @@
 layout: about
 title: About
 ---
-Architecture office interested in the essential, the functional, the radical.
-Scarcity of means / Clarity of intent
+<p>Architecture office</p>
+
+<p>Scarcity of means / Clarity of intent</p>
+
 
 Via Camonia 6, 
 40133 Bologna, Italy
