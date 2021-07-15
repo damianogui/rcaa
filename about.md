@@ -4,6 +4,6 @@ title: About
 ---
 Architecture office interested in the essential, the functional, the radical.
 
-Via Nosadella 34, 
-40123 Bologna, Italy
+Via Camonia 6, 
+40133 Bologna, Italy
  
