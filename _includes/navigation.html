@@ -21,19 +21,11 @@
   <a href="{{ item.link | relative_url }}" class="external" target="_blank">{{ item.name }}</a>
   </li>
   {% endif %}
-  {% endfor %}
-  </ul>
-  <ul class="projects">
-  {% for item in site.data.navigation %}
   {% if item.category contains "interior" %}
   <li>
   <a href="{{ item.link | relative_url }}" class="interior">{{ item.name }}</a>
   </li>
   {% endif %}
-  {% endfor %}
-  </ul>
-  <ul class="projects">
-  {% for item in site.data.navigation %}
   {% if item.category contains "design" %}
   <li>
   <a href="{{ item.link | relative_url }}" class="design">{{ item.name }}</a>
