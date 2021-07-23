@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Sculpture M
+title: M Shelves
 id: m_shelves
 year: 2016
 category: design
