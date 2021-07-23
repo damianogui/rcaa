@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Casa GVB (on site)
+title: Casa GVB
 id: casa_gvb_site
 year: 2018
 category: architecture
