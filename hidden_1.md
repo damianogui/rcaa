@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Hidden 1
-id: hidden_1.html
+id: hidden_1
 year: 2021
 category: design
 place: Bologna, Italy
