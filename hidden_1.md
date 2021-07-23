@@ -6,4 +6,4 @@ year: 2021
 category: design
 place: Bologna, Italy
 ---
-Wall-mounted contaner. Laser-cut plastic pipe. 
+Wall-mounted container/sculpture. Laser-cut steel, powder coated. Available on order.
