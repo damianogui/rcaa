@@ -1,6 +1,8 @@
 # RCAA
 
-Architecture and design office interested in the essential, the functional, the radical.
+Architecture and design office.
+
+Scarcity of means/Clarity of intent
 
 Via Camonia 6, Bologna, Italy
 
