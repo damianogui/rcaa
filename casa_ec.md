@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Bookshelves for Casa EC
+title: Casa EC
 id: casa_ec
 year: 2019
 category: design
