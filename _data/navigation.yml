@@ -3,6 +3,11 @@
   year: 2021
   category: design
   place: Bologna, Italy
+- name: OCT Museum
+  link: /oct_museum.html
+  year: 2012
+  category: architecture
+  place: Shenzhen, China
 - name: Hidden 1
   link: /hidden_1.html
   year: 2021
@@ -13,6 +18,11 @@
   year: 2021
   category: design
   place: Bologna, Italy
+- name: Pace Museum
+  link: /pace.html
+  year: 2012
+  category: architecture
+  place: Ningbo, China
 - name: Nomad
   link: /nomad.html
   year: 2021
