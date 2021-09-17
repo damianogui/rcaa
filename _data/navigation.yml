@@ -1,3 +1,8 @@
+- name: Hidden 2
+  link: /hidden_2.html
+  year: 2021
+  category: design
+  place: Bologna, Italy
 - name: Cerchio
   link: /cerchio.html
   year: 2021
