@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Hidden 2
+title: H.2
 id: hidden_2
 year: 2021
 category: design
