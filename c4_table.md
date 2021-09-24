@@ -1,6 +1,6 @@
 ---
 layout: project
-title: C4 Table
+title: CT.B
 id: c4_table
 year: 2017
 category: design
