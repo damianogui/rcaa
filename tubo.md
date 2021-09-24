@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Tubo
+title: T.1
 id: tubo
 year: 2021
 category: design
