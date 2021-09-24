@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Perspe 2.0
+title: P.2
 id: perspe2
 year: 2021
 category: design
