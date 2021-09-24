@@ -1,9 +1,9 @@
-- name: Hidden 2
+- name: H.2
   link: /hidden_2.html
   year: 2021
   category: design
   place: Bologna, Italy
-- name: Cerchio
+- name: C.1
   link: /cerchio.html
   year: 2021
   category: design
@@ -13,12 +13,12 @@
   year: 2012
   category: architecture
   place: Shenzhen, China
-- name: Hidden 1
+- name: H.2
   link: /hidden_1.html
   year: 2021
   category: design
   place: Milan, Italy
-- name: Tubo
+- name: T.1
   link: /tubo.html
   year: 2021
   category: design
@@ -38,7 +38,7 @@
   year: 2020
   category: design
   place: Antwerp, Belgium
-- name: Perspe 2.0
+- name: P.2
   link: /perspe2.html
   year: 2021
   category: design
@@ -48,7 +48,7 @@
   year: 2020
   category: architecture
   place: Bologna, Italy
-- name: C1 Table
+- name: C1
   link: /cone_table.html
   year: 2018
   category: design
@@ -113,7 +113,7 @@
   year: 2018
   category: interior
   place: Bologna, Italy
-- name: Servo Muto
+- name: Silent Servant
   link: /servo_muto.html
   year: 2018
   category: design
@@ -133,7 +133,7 @@
   year: 2015
   category: architecture
   place: Cortina d'Ampezzo, Italy
-- name: C4 Table
+- name: CT.B
   link: /c4_table.html
   year: 2017
   category: design
@@ -178,7 +178,7 @@
   year: 2015
   category: design
   place: Bologna, Italy
-- name: Ribbon Table
+- name: TR.1
   link: /ribbon_table.html
   year: 2016
   category: design
