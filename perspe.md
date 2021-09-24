@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Perspe
+title: P.1
 id: perspe
 year: 2016
 category: design
