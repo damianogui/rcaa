@@ -1,6 +1,6 @@
 ---
 layout: project
-title: C1 Table
+title: CT.E
 id: cone_table
 year: 2018
 category: design
