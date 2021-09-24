@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Servo Muto
+title: Silent Servant
 id: servo_muto
 year: 2018
 category: design
