@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Cerchio
+title: C.1
 id: cerchio
 year: 2021
 category: design
