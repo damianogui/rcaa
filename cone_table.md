@@ -12,3 +12,4 @@ Status: In progress
 
 Part of a series of table exploring simple steel fabrication and geometric repetitions/variations.
 3mm bent and laser cut steel plate, sand-blasted and clear-coated.
+Availble for purchase <a href="https://artemest.com/products/ct-e-coffee-table" target="_blank">HERE</a> 
