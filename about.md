@@ -7,6 +7,5 @@ title: About
 <p>Scarcity of means / Clarity of intent</p>
 
 
-Via Camonia 6, 
-40133 Bologna, Italy
+
  
