@@ -128,11 +128,6 @@
   year: 2017
   category: interior
   place: Bologna, Italy
-- name: Venezia table
-  link: /venezia.html
-  year: 2018
-  category: design
-  place: Venezia, Italy
 - name: Casa DC
   link: /casa_dc.html
   year: 2015
@@ -158,18 +153,8 @@
   year: 2015
   category: design
   place: Bologna, Italy
-- name: Postrivoro
-  link: /postrivoro.html
-  year: 2017
-  category: interior
-  place: Faenza, Italy
 - name: M Shelves
   link: /m_shelves.html
-  year: 2016
-  category: design
-  place: Bologna, Italy
-- name: Perspe 1.0
-  link: /perspe.html
   year: 2016
   category: design
   place: Bologna, Italy
