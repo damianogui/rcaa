@@ -3,11 +3,6 @@
   year: 2021
   category: interior
   place: Naples, Italy
-- name: P.02.L
-  link: /p02l.html
-  year: 2021
-  category: design
-  place: Naples, Italy
 - name: H.2
   link: /hidden_2.html
   year: 2021
@@ -157,11 +152,6 @@
   link: /m_shelves.html
   year: 2016
   category: design
-  place: Bologna, Italy
-- name: Casa EG
-  link: /rattigna.html
-  year: 2015
-  category: interior
   place: Bologna, Italy
 - name: DM high stool
   link: /dm_high.html
