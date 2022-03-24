@@ -88,11 +88,6 @@
   year: 2019
   category: interior
   place: New York, USA
-- name: Casa EC
-  link: /casa_ec.html
-  year: 2019
-  category: design
-  place: Imola, Italy
 - name: Villa F
   link: /villa_f.html
   year: 2019
@@ -106,12 +101,12 @@
 - name: Casa & Atelier GVM
   link: /casa_atelier_gvm.html
   year: 2018
-  category: interior
+  category: architecture
   place: Bologna, Italy
 - name: Casa ZVL
   link: /casa_zvl.html
   year: 2018
-  category: interior
+  category: architecture
   place: Bologna, Italy
 - name: Silent Servant
   link: /servo_muto.html
@@ -121,7 +116,7 @@
 - name: Casa TR
   link: /casa_tr.html
   year: 2017
-  category: interior
+  category: architecture
   place: Bologna, Italy
 - name: Casa DC
   link: /casa_dc.html
